@@ -18,7 +18,7 @@ Hi everyone again, welcome to article number on 2 of the Kotlin Playground Serie
 In this and following article I’ll cover some of Kotlin base syntax as I believe it’s important before we jump into other examples. But enough talk and let’s look at some Kotlin code.  
 다른 예제로 넘어가기 전에 이 글과 다음 글에서 제가 중요하다고 생각하는 몇 가지 Kotlin 기본 문법을 다루겠습니다. 
 
-But enough talk and let’s look at some Kotlin code.
+But enough talk and let’s look at some Kotlin code.  
 말은 충분히 했으니, Kotlin 코드를 봅시다.
 
 
