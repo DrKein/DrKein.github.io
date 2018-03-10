@@ -9,7 +9,7 @@ title: Kotlin Syntax Part I - why am I excluded?(번역)
 
 원문 : https://proandroiddev.com/kotlin-syntax-part-i-why-am-i-excluded-86772a61fade
 
-![pic1|center|0x0](https://cdn-images-1.medium.com/max/2000/1*QcHZLfsT95RIkww_2Hoqyg.png)
+![img](https://cdn-images-1.medium.com/max/2000/1*QcHZLfsT95RIkww_2Hoqyg.png)
 
 
 Hi everyone again, welcome to article number on 2 of the Kotlin Playground Series. There wasn’t that much code in the previous article but if you read it, you probably saw some new syntax that you’re not familiar with if coming from Java.  
