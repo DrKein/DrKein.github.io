@@ -1,3 +1,11 @@
+---
+layout: post
+title: Using Kotlin takeIf(or takeUnless)(번역)
+---
+원문 : https://medium.com/@elye.project/using-kotlin-takeif-or-takeunless-c9eeb7099c22
+
+
+
 # Using Kotlin takeIf(or takeUnless)
 
 ![img](https://cdn-images-1.medium.com/max/1600/1*HyevTu9l1QUBcWJ6Vx9ThQ.png)
