@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Mastering Kotlin standard functions: run, with, let, also and apply(번역)"
+img: mac.jpg
+tags: [Kotlin, functions, run, with, let, also, apply]
 ---
 
 원문 : <https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84>

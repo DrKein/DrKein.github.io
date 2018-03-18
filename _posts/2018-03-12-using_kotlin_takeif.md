@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Using Kotlin takeIf(or takeUnless)(번역)
+img: i-rest.jpg # Add image post (optional)
+tags: [Kotlin, takeif, takeUnless]
 ---
-원문 : https://medium.com/@elye.project/using-kotlin-takeif-or-takeunless-c9eeb7099c22
 
+원문 : https://medium.com/@elye.project/using-kotlin-takeif-or-takeunless-c9eeb7099c22
 
 
 # Using Kotlin takeIf(or takeUnless)
@@ -13,7 +15,6 @@ title: Using Kotlin takeIf(or takeUnless)(번역)
 In Kotlin’s [standard functions](https://github.com/JetBrains/kotlin/blob/master/libraries/stdlib/src/kotlin/util/Standard.kt), there’s two function i.e. `takeIf` and `takeUnless`, that at first glance, what’s so special about it? Is it pretty much just `if`?
 
 코틀린 기본 함수에는 얼핏보면, 특별한게 뭐지? 그냥 `if`같은거 아냐? 라는 생각이 드는 함수 `takeIf`와 `takeUnless`두가지 함수가 있습니다.
-
 
 
 Or one could go the extreme, replace every `if` it sees as below (**NOT **recommended).

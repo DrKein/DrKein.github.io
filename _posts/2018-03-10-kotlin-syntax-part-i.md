@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Kotlin Syntax Part I - why am I excluded?(번역)
+img: how-to-start.jpg # Add image post (optional)
+tags: [Kotlin, syntax]
 ---
 
 
