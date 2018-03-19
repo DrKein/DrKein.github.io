@@ -29,13 +29,6 @@ tags: [Kotlin, Design, patterns]
 ## Singletone
 
 물론 마음속에 떠오르는 첫 번째 디자인 패턴은 싱글톤 입니다. 그리고 이것은 바로 언어 자체에 내장되어 있습니다. ***object*** 를 보세요:
-
-{% highlight kotlin %}
-object JustSingleton {
-    val value: String = "Just a value"
-}
-{% endhighlight %}
-
 ```kotlin
 object JustSingleton {
     val value: String = "Just a value"
