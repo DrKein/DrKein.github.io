@@ -6,8 +6,11 @@ tags: [Kotlin, Design, patterns]
 ---
 
 
+원문 : <https://proandroiddev.com/kotlin-design-patterns-8e152540ee2c>
 
-#Kotlin Design Patterns 
+
+
+# Kotlin Design Patterns 
 
 ![](https://cdn-images-1.medium.com/max/1600/1*qdDNIUIP6dlK6oQ6WviZ_w.jpeg)
 
