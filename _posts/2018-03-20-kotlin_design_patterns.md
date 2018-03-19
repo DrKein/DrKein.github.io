@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kotlin Design Patterns(번역)
+description: DDDDD
 img: design_patterns.jpg
 tags: [Kotlin, Design, patterns]
 ---
