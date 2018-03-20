@@ -23,14 +23,4 @@ In this and following article I’ll cover some of Kotlin base syntax as I belie
 But enough talk and let’s look at some Kotlin code.  
 말은 충분히 했으니, Kotlin 코드를 봅시다.
 
-```
-val immediateAssignment: Int = 1
-
-val inferredTypeInt = 2
-
-val deferredAssignment: Int
-deferredAssignment = 3
-
-var mutableInferredTypeString = "some string"
-mutableInferredTypeString += "some concat"
-```
+{% gist 5555251 %}
