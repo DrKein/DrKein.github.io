@@ -11,7 +11,6 @@ html {
 }
 
 body {
-  max-width: 100%;
   font-family: 'Lato', sans-serif;
   color: $body-color;
   background-color: #fbfbfb;
@@ -41,8 +40,6 @@ blockquote {
 pre {
   padding: 1rem 2rem;
   overflow-x: auto;
-  white-space: nowrap;  
-
   code {
     border: 0;
     padding-right: 0;
@@ -95,7 +92,7 @@ table tfoot td {
 }
 
 .wrapper {
-  max-width: 1250px;
+  max-width: 100%;
   position: relative;
 }
 
