@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Rest From Work 2
+title: How I Rest From Work 3
 img: i-rest.jpg # Add image post (optional)
 tags: [Holidays, Hawaii]
 ---
