@@ -23,4 +23,32 @@ In this and following article I’ll cover some of Kotlin base syntax as I belie
 But enough talk and let’s look at some Kotlin code.  
 말은 충분히 했으니, Kotlin 코드를 봅시다.
 
-{% gist 5555251 %}
+``` kotlin
+class ClassWithoutConstructorKeyword (val name: String) {
+    val nameLength = name.length
+}
+
+class ClassWithConstructorKeyword constructor (val name: String) {
+    val nameLength = name.length
+}
+
+class ClassWithAccessModifier public constructor (val name: String) {
+    val nameLength = name.length
+}
+
+class ClassWithInitialization public constructor (val name: String) {
+    val nameLength : Int
+
+    init {
+        nameLength = name.length
+    }
+}
+
+class ClassWithMultipleConstructors (val name: String) {
+    val nameLength = name.length
+
+    constructor(name: String, age: Int) : this(name) {
+        val yearOfBirth = LocalDateTime.now().year - age
+    }
+}
+```
