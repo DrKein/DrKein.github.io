@@ -23,7 +23,7 @@ In this and following article I’ll cover some of Kotlin base syntax as I belie
 But enough talk and let’s look at some Kotlin code.  
 말은 충분히 했으니, Kotlin 코드를 봅시다.
 
-``` kotlin
+{% highlight kotlin linenos=table %}
 class ClassWithoutConstructorKeyword (val name: String) {
     val nameLength = name.length
 }
@@ -51,4 +51,4 @@ class ClassWithMultipleConstructors (val name: String) {
         val yearOfBirth = LocalDateTime.now().year - age
     }
 }
-```
+{% endhighlight %}
