@@ -39,7 +39,8 @@ blockquote {
 
 pre {
   padding: 1rem 2rem;
-  overflow-x: scroll;
+  overflow-x: auto;
+  white-space: nowrap;  
 
   code {
     border: 0;
