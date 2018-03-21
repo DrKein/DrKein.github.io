@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{{ content }}
+
+
+
+{% if page.comments %}
+<p>
+    {% include comments.html %}
+</p>    
+{% endif %}
