@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Mastering Kotlin standard functions: run, with, let, also and apply(번역)"
-img: mac.jpg
+description: >
+  Kotlin functions run with let also apply
+image: 
+categories: [Kotlin]
 tags: [Kotlin, functions, run, with, let, also, apply]
 ---
 
