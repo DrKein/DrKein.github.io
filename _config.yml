@@ -1,6 +1,5 @@
 title: Hello, world!
-description: > # this means to ignore newlines until "baseurl:"
-  Hello, world!
+description: Hello, world!
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -24,6 +23,8 @@ analytics: # Google Analytics
 
 # Build Settings
 markdown: kramdown
+  input: GFM
+
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
