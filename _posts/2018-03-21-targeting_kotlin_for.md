@@ -6,6 +6,7 @@ description: >
 image: /assets/img/1_a8vwAg-xkjY6wHhtyyXgUA.png
 categories: [Kotlin]
 tags: [Kotlin, iOS, Android, Multiplatform, Kotlin Native, Konan]
+comments: true
 ---
 
 원문 : <https://proandroiddev.com/targeting-kotlin-for-both-android-and-ios-dec5b967006a>

@@ -6,6 +6,7 @@ description: >
 image: 
 categories: [Kotlin]
 tags: [Kotlin, takeif, takeUnless]
+comments: true
 ---
 
 원문 : <https://medium.com/@elye.project/using-kotlin-takeif-or-takeunless-c9eeb7099c22>

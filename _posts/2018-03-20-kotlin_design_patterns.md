@@ -6,6 +6,7 @@ description: >
 image: 
 categories: [Kotlin]
 tags: [Kotlin, Design, patterns]
+comments: true
 ---
 
 원문 : <https://proandroiddev.com/kotlin-design-patterns-8e152540ee2c>

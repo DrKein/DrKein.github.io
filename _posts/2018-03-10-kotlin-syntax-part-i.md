@@ -6,6 +6,7 @@ description: >
 image: 
 categories: [Kotlin]
 tags: [Kotlin, syntax]
+comments: true
 ---
 
 원문 : <https://proandroiddev.com/kotlin-syntax-part-i-why-am-i-excluded-86772a61fade>
