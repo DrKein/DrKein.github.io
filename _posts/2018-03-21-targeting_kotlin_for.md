@@ -18,6 +18,25 @@ Kotlin 은 Java와 동작할 수 있는 .class 파일로 컴파일되고, Androi
 
 예제를 보겠습니다.
 
-{% gist 5c66cf39d10cc08766ce5673bc002914 %}
+```kotlin
+package io.github.jitinsharma
 
+const val API_KEY = "abdfkdfgl453"
+class Helper {
+    fun getSum(first: Int, second: Int): Int = first + second
+    fun sliceFilterAndSort(list: List<String>): List<String> = 
+            list.subList(0, 4).filter { it.length > 3 }.sortedBy { it.length }
 
+    companion object {
+        val helperId: Int = 0
+        fun getHelperType() : String = "Helper234"
+    }
+}
+
+data class Model(
+        var id: Int = 0,
+        var type: String = ""
+)
+```
+
+위 예제는 Kotlin으로 작성된 다수의 클래스와 변수를 가진 단순한 코드 조각 입니다.
