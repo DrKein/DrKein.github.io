@@ -18,7 +18,7 @@ hide_description: true
 menu: true
 ---
 
-Hello! ^^*
+Hello! ^^
 
 
 > 이 블로그는 **Hydejack** 테마를 이용하고 있습니다.
