@@ -5,9 +5,7 @@ img: design_patterns.jpg
 tags: [Kotlin, Design, patterns]
 ---
 
-
 원문 : <https://proandroiddev.com/kotlin-design-patterns-8e152540ee2c>
-
 
 
 # Kotlin Design Patterns
