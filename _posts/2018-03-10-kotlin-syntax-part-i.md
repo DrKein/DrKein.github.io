@@ -8,11 +8,12 @@ categories: [Kotlin]
 tags: [Kotlin, syntax]
 ---
 
+원문 : <https://proandroiddev.com/kotlin-syntax-part-i-why-am-i-excluded-86772a61fade>
 
 
 # Kotlin Syntax Part I - why am I excluded?(번역)
 
-원문 : <https://proandroiddev.com/kotlin-syntax-part-i-why-am-i-excluded-86772a61fade>
+
 
 ![img](https://cdn-images-1.medium.com/max/2000/1*QcHZLfsT95RIkww_2Hoqyg.png)
 
