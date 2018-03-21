@@ -1,31 +1,30 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# Hydejack Starter Kit
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+A quicker, cleaner way to get started blogging with [Hydejack](https://qwtel.com/hydejack/).
 
-## Demo
+## Quick Start
+### Running locally
+1. Clone repository (git users), or [download] and unzip.
+2. Open terminal, `cd` into root directory (where `_config.yml` is located)
+3. `bundle install` [^1]
+4. `bundle exec jekyll serve`
+5. Open <http://localhost:4000/hydejack-starter-kit/>
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+### GitHub Pages
+1. Fork this repository.
+2. Go to **Settings**, rename repository to `<your github username>.github.io` (without the `<` `>`)
+3. Edit `_config.yml` (you can do this directly on GitHub)
+    1. Change `url` to `https://<your github username>.github.io` (without the `<` `>`)
+    2. Change `baseurl` to `''` (empty string)
+    3. **Commit changes**.
+4. Go to **Settings** again, look for **GitHub Pages**, set **Source** to **master branch**.
+5. Click **Save** and wait for GitHub to set up your new blag.
 
-The main page would look like this:
+## What's next?
+* Open files and read the comments
+* Read the [docs](https://qwtel.com/hydejack/docs/)
+* Buy the [PRO version](https://qwtel.com/hydejack/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
+[^1]: Requires Bundler. Install with `gem install bundler`.
 
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
-
-## Features
-
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
-
-## Installation:
-
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
-
-### License
-
-GNU General Public License v3.0
+[download]: https://github.com/qwtel/hydejack-starter-kit/archive/master.zip
