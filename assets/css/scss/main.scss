@@ -40,6 +40,9 @@ blockquote {
 pre {
   padding: 1rem 2rem;
   overflow-x: auto;
+  display: block;
+  white-space: pre;
+  word-wrap: normal;
   code {
     border: 0;
     padding-right: 0;
