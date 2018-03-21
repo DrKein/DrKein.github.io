@@ -3,7 +3,7 @@ layout: post
 title: Targeting Kotlin for both Android and iOS(번역)
 description: >
   Target Kotlin for multiplatform
-image: 
+image: /assets/img/1_a8vwAg-xkjY6wHhtyyXgUA.png
 categories: [Kotlin]
 tags: [Kotlin, iOS, Android, Multiplatform, Kotlin Native, Konan]
 ---
