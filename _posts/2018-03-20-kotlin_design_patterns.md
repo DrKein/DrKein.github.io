@@ -10,7 +10,7 @@ tags: [Kotlin, Design, patterns]
 
 
 
-# Kotlin Design Patterns 
+# Kotlin Design Patterns
 
 ![](https://cdn-images-1.medium.com/max/1600/1*qdDNIUIP6dlK6oQ6WviZ_w.jpeg)
 
