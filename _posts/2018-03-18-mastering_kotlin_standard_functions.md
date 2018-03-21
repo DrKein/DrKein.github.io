@@ -25,7 +25,7 @@ Kotlin의 몇몇 [표준함수](https://github.com/JetBrains/kotlin/blob/master/
 
 ## Scoping functions
 
-중점을 두려는 함수들은 *run, with, T.run, T.let, T.also* and *T.apply* 입니다. 이 함수들의 주요 기능은 호출자 함수의 내부 범위를 제공하는 부분을 보고 저는 이 함수들을 스코핑 함수 라고 부릅니다. 
+중점을 두려는 함수들은 *run, with, T.run, T.let, T.also* 그리고 *T.apply* 입니다. 이 함수들의 주요 기능은 호출자 함수의 내부 범위를 제공하는 부분을 보고 저는 이 함수들을 스코핑 함수 라고 부릅니다. 
 
 스코핑을 표현하는 가능 간단한 방법은 *run* 함수 입니다. 
 
