@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RecyclerView with MVP (번역)
-description: 
+description: RecyclerView 에 MVP 적용하기 
 categories: [MVP]
 tags: [Kotlin, Android, MVP]
 comments: true
